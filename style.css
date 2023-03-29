@@ -1,0 +1,17 @@
+*{
+	font-family: monospace;
+	color: white;
+}
+
+body{
+	background-color: black;
+
+}
+
+.cont{
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 30px;
+	padding: 30px;
+	border-radius: 15px;
+}
